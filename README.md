@@ -7,6 +7,10 @@ A modern, responsive **HTML, CSS, and JavaScript** project featuring:
 - Responsive card-based dashboard layout
 
 ---
+## 🌐 Live Demo
+
+👉 [**Demo**](https://golden-alfajores-8ab72a.netlify.app/)
+
 
 ## 📸 Preview
 ![Sidebar Dashboard Screenshot](picture.png)
